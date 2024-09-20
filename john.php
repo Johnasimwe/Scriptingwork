@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+my<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,7 +30,7 @@
         h1 {
             text-align: center;
             margin-bottom: 20px;
-            color: #4CAF50;
+            color: #ABC009;
         }
 
         label {
